@@ -1,0 +1,28 @@
+body {
+    background: #efefef;
+    font-family: arial, serif;
+}
+
+h1 {
+    font-size: 18px;
+    color: deeppink;
+}
+
+a {
+    color: #000000;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 16px;
+    color: aqua;
+}
+
+p {
+    font-size: 14px;
+}
